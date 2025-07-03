@@ -41,7 +41,7 @@ VERSION:3.0
 FN:HUSSAM OUSAMA ASAAD
 TITLE:Sales Manager
 ORG:RISE Properties
-TEL;TYPE=WORK,VOICE:+971525572118‬‬‬
+TEL;TYPE=WORK,VOICE:+971525572118
 EMAIL:Hussam@riseproperties.ae
 URL:http://www.riseproperties.ae
 ADR;TYPE=WORK:;;PO Box No 181702, Office NO.1607, Opal Tower, Business Bay;Dubai;;UAE
@@ -64,4 +64,3 @@ document.querySelector('.save-contact-button').addEventListener('click', functio
   e.preventDefault();
   downloadVCard();
 });
-
